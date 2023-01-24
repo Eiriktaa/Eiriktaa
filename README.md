@@ -5,12 +5,10 @@
 #### Some of the projects i have been working on in the past 2 years
 
 - [Pygames](https://github.com/Eiriktaa/Pygames): A small collection of GUI games in python
-- [Course Webscraper](https://github.com/Eiriktaa/semester_webscraper) Small webscaper that notifies on new info on courses websites
+- [Asp-interpretor](https://github.com/Eiriktaa/Asp-interpretor) A showcase of an interpretor for a python like language, that was given as a final exam for one of my courses
 - [IP updater](https://github.com/Eiriktaa/ipupdater) Simple scripts that updates your Cloudflare DNS to point at your new public IP if the public IP of your server changes
-- [Skogul](https://github.com/telenornms/skogul) First contribution to an OSS, added logging to telemetry data
+- [Skogul](https://github.com/telenornms/skogul) First contribution to an Open Source Project, my contribution was adding some logging on telemetry data
 
-### WIP
-- Currently working on building an interpreter for a python-like language as a final exam for one of my courses
 
 
 <!--
