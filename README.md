@@ -3,7 +3,7 @@
 - I'm Eirik, an IT student with a passion for coding, gaming and surfing
 - I'm currently studying "Programming and System Architecture" at UiO
 
-### Some of the projects i have been working on in the past 2 year
+### Some of the projects I have been working on in the past 2 year
 
 
 - [Pygames](https://github.com/Eiriktaa/Pygames): A small collection of GUI games made with python
